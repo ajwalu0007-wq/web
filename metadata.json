@@ -1,0 +1,6 @@
+{
+  "name": "Camellia & Stone — Artisanal Tea Atelier",
+  "description": "Artisanal single-origin loose-leaf teas, ceremonial matcha, bespoke tasting room flights, and interactive gongfu brewing companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
